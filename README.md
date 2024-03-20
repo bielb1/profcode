@@ -1,2 +1,0 @@
-# profcode
-projeto professor codigo
